@@ -24,7 +24,7 @@ The project contains the following key files:
 ### `app.py`
 - A Flask web application that serves the HTML pages and handles form submissions for health checkups. It uses the `pandas` and `matplotlib` libraries for data processing and visualizations.
 
-### `hour.csv`
+### `dataset.csv`
 - A CSV file containing animal-related data that is used for visualizations in the health dashboard.
 
 
